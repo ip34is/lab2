@@ -129,7 +129,7 @@ ul li, ol li {
   list-style-position: inside;
 }
 
-/* Планшеты (от 768px до 1024px) */
+/* Планшети (від 768px до 1024px) */
 @media (max-width: 1024px) and (min-width: 768px) {
   body {
     grid-template-columns: 1fr;
@@ -140,7 +140,7 @@ ul li, ol li {
   }
 }
 
-/* Мобильные устройства (менее 768px) */
+/* Мобільні пристрої (менше 768px) */
 @media (max-width: 767px) {
   body {
     font-size: 2.5vw;
@@ -164,7 +164,7 @@ ul li, ol li {
   }
 }
 
-/* Очень маленькие экраны (менее 480px) */
+/* Дуже маленькі екрани (менше 480px) */
 @media (max-width: 480px) {
   h3 {
     font-size: 1em;
