@@ -90,7 +90,7 @@ ul li, ol li {
   width: 100%;
   text-align: center;
   align-items: center;
-  gap: 1em; /* Додає простір між елементами */
+  gap: 1em;
 }
 
 #block_1 {
