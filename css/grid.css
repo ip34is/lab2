@@ -9,7 +9,7 @@ body {
   height: 100vh;
   font-size: 1vw;
   display: grid;
-  grid-template-columns: 1fr 3fr 1fr;
+  grid-template-columns: 1fr 2fr 1fr;
   grid-template-rows: auto auto auto;
   justify-items: center;
   overflow-x: hidden;
